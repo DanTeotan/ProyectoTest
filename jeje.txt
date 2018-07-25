@@ -1,0 +1,23 @@
+    1  ls
+    2  clear
+    3  ls
+    4  pwd
+    5  cd Desktop/
+    6  cd Proyecto1/
+    7  git clone https://github.com/DanTeotan/ProyectoTest.git
+    8  git status
+    9  git branch
+   10  pwd
+   11  cd ProyectoTest/
+   12  git status
+   13  git branch
+   14  pwd
+   15  git status
+   16  git add index.php
+   17  git status
+   18  git commit-m "primer commit de index.php no lleva cambios"
+   19  git commit -m "primer commit de index.php no lleva cambios"
+   20  git push
+   21  git status
+   22  history
+   23  history>jeje.txt
